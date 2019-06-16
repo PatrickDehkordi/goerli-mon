@@ -17,7 +17,7 @@ Clone the repository and install the dependencies
 
 ```bash
 git clone https://github.com/PatrickDehkordi/goerli-mon
-cd eth-netstats
+cd goerli-mon
 npm install
 sudo npm install -g grunt-cli
 ```
